@@ -84,6 +84,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [pyproj](https://github.com/pyproj4/pyproj):Python interface to PROJ (cartographic projections and coordinate transformations library).
   * [DASK](https://dask.org/): advanced parallelism for analytics, enabling performance at scale for the tools you love.
   * [tobac](https://github.com/climate-processes/tobac): tobac is a Python package for identifiying, tracking and analysing of clouds in different types of gridded datasets, i.e. 3D model output from cloud resolving model simulations or 2D data of satellite observations.
+  * [ecCodes](https://github.com/ecmwf/eccodes.git): ecCodes is a package developed by ECMWF which provides an application programming interface and a set of tools for decoding and encoding messages in the following formats: GRIB
+  * [grib tools](https://confluence.ecmwf.int/display/ECC/GRIB+tools+examples) :Command line tools examples for GRIB data process
 
 ## Machine Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
@@ -109,6 +111,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [cmaps](https://github.com/hhuangwx/cmaps):Make it easier to use user defined colormaps in matplotlib.Default colormaps are from [NCL](http://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml) website.
   * [holoviews](https://github.com/pyviz/holoviews): make data analysis and visualization seamless and simple
   * [earth wind map](https://github.com/cambecc/earth): a project to visualize global weather conditions [http://earth.nullschool.net](http://earth.nullschool.net/)
+  * [Panoply](https://www.giss.nasa.gov/tools/panoply/): Panoply plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
 
 ---
 
